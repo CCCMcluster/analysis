@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "position",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Red Alert for  Tropical Cyclone BERYL-24 ", "timestamp": null }, "geometry": { "type": "Point", "coordinates": [ -72.7, 16.2 ] } }
+]
+}
